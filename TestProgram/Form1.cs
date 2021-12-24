@@ -19,6 +19,9 @@ namespace TestProgram
         static public string connectPort;
         static public string connectIpAddress;
         static public string connectIpAddres1s;
+        static public string connectIpAdddres1s;
+
+
 
         public Form1()
         {
