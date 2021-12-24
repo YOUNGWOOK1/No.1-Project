@@ -1,0 +1,13 @@
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\bin\Debug\TestProgram.exe
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\bin\Debug\TestProgram.pdb
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\bin\Debug\NModbus4.dll
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\bin\Debug\NModbus4.xml
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.Properties.Resources.resources
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.csproj.GenerateResource.cache
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.exe
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.pdb
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.csproj.AssemblyReference.cache
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.ConnectSetPage.resources
+C:\Users\hyw90\source\repos\TestProgram\TestProgram\obj\Debug\TestProgram.Form1.resources
